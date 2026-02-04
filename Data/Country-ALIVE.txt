@@ -1,4 +1,2 @@
-144.22.144.168,4242,BR,Oracle Corporation
-83.147.192.190,443,DE,Aeza International LTD
-147.45.72.36,8443,DE,Aeza International LTD
-141.145.199.188,443,FR,Oracle Corporation
+36.133.126.13,443,CN,China Mobile Communications Corporation
+107.161.154.177,443,DE,SEBEK sp. z o.o
