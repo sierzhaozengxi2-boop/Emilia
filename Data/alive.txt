@@ -1,4 +1,2 @@
-85.192.31.30,443,FI,Aeza International LTD
-62.60.153.58,443,GB,Aeza International LTD
-77.110.97.204,443,SE,Aeza International LTD
-83.147.254.163,443,SE,Aeza International LTD
+45.128.78.153,443,DE,INTERKVM HOST SRL
+147.45.248.214,443,NL,Timeweb, LLP
