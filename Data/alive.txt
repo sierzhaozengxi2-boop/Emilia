@@ -1,2 +1,0 @@
-185.221.237.134,443,DE,Deployish Limited
-83.147.254.14,443,GB,Aeza International LTD
