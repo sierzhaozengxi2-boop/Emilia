@@ -1,6 +1,0 @@
-36.133.126.13,443,CN,China Mobile Communications Corporation
-77.110.108.214,443,FI,Aeza International LTD
-81.177.214.86,443,FI,GLOBAL CONNECTIVITY SOLUTIONS LLP
-62.60.244.168,443,GB,Aeza International LTD
-147.45.136.240,443,NL,Timeweb, LLP
-83.147.254.245,443,SE,Aeza International LTD
