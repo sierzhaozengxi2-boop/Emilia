@@ -1,2 +1,1 @@
-217.144.189.127,443,GB,Aeza International LTD
-193.33.153.151,443,NL,Aeza International LTD
+46.229.251.130,443,NL,ZetServers Amsterdam
