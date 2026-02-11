@@ -1,2 +1,1 @@
-46.229.251.130,443,NL,ZetServers Amsterdam
-80.87.110.43,443,RU,Internet-Pro LLC
+46.32.184.64,443,LV,SIA VEESP
