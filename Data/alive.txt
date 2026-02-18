@@ -1,2 +1,5 @@
+144.22.144.168,4242,BR,Oracle Corporation
+5.187.3.181,2053,DE,Fornex Hosting S.L.
+5.187.3.181,8443,DE,Fornex Hosting S.L.
 198.244.235.173,179,GB,OVH Ltd
-46.229.251.130,443,NL,ZetServers Amsterdam
+86.107.197.161,443,NL,MVPS LTD
