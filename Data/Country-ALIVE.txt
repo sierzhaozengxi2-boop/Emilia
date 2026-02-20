@@ -1,2 +1,0 @@
-45.144.48.140,8443,PL,Newserverlife LLC
-83.147.254.168,443,SE,Aeza International LTD
