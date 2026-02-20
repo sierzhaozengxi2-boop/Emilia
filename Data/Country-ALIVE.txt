@@ -1,2 +1,2 @@
-198.244.235.173,179,GB,OVH Ltd
-45.144.49.146,443,PL,Newserverlife LLC
+45.144.48.140,8443,PL,Newserverlife LLC
+83.147.254.168,443,SE,Aeza International LTD
