@@ -1,2 +1,1 @@
-5.187.3.181,2053,DE,Fornex Hosting S.L.
-5.187.3.181,8443,DE,Fornex Hosting S.L.
+185.221.237.134,443,DE,Deployish Limited
