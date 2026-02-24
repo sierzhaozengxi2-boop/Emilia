@@ -1,1 +1,1 @@
-185.221.237.134,443,DE,Deployish Limited
+46.229.251.130,443,NL,ZetServers Amsterdam
