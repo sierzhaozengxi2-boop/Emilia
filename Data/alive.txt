@@ -1,2 +1,0 @@
-185.254.158.69,8443,FI,Individual Entrepreneur Anton Levin
-45.144.48.42,8443,PL,Newserverlife LLC
