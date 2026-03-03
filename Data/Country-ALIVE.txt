@@ -1,2 +1,2 @@
-216.24.184.171,95,CN,CHINANET Anhui province network
-65.109.200.234,443,FI,Hetzner Online GmbH
+185.254.158.69,8443,FI,Individual Entrepreneur Anton Levin
+45.144.48.42,8443,PL,Newserverlife LLC
