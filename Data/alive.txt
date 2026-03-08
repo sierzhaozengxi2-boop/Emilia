@@ -1,127 +1,137 @@
-178.160.195.187,443,AM,Telecom Armenia OJSC
-203.98.67.74,2053,AT,Alwyzon, a trading name of Hohl IT e.U.
-167.114.67.25,443,CA,OVH Hosting, Inc.
-40.177.65.8,443,CA,Amazon Data Services Canada
-120.204.51.3,443,CN,China Mobile Communications Corporation - shanghai company
-77.81.138.64,2053,DE,IPHOSTER OU
-185.235.241.209,8443,DE,WorkTitans B.V.
-45.129.242.96,443,DE,SERVA ONE LTD
-91.107.147.191,8443,DE,Hetzner Online GmbH
-150.241.123.57,443,DE,Frankfurt, Germany
-185.94.166.203,2053,DE,GTELCOM LLC
-116.203.94.129,2083,DE,Hetzner Online GmbH
-185.233.81.42,8443,DE,FIRST SERVER LIMITED
-193.37.70.230,2053,DE,Cloud Hosting Solutions, Limited.
-91.107.250.153,8443,DE,Hetzner Online GmbH
-167.71.47.237,443,DE,DigitalOcean, LLC
-143.20.213.235,8443,DE,Customer allocation HB Client 2916
-143.20.213.39,8443,DE,Customer allocation HB Client 2916
-152.42.178.179,443,DE,DigitalOcean, LLC
-193.23.219.132,443,DE,Senko Digital LLC
-2.59.134.248,1003,DE,dataforest GmbH
-45.128.78.153,443,DE,INTERKVM HOST SRL
-85.192.61.175,443,DE,Aeza International LTD
-181.36.229.212,443,DO,ALTICE DOMINICANA S.A.
-176.97.74.132,2053,EE,IROKO Networks Corporation
+139.185.50.5,14594,AE,Oracle Corporation
+83.138.55.120,8443,AT,Alwyzon, a trading name of Hohl IT e.U.
+185.82.218.224,9443,BG,ITLDC EU2.SOF Datacenter Network
+91.199.118.212,8443,DE,Customer allocation HB Client 11647
+79.132.142.62,8443,DE,www.fornex.com, Fornex Hosting S.L.
+188.241.241.3,2053,DE,HFM S.R.L
+207.154.235.176,2053,DE,DigitalOcean, LLC
+57.129.47.11,8443,DE,OVH GmbH
+57.129.47.72,2053,DE,OVH GmbH
+57.129.63.42,2053,DE,OVH GmbH
+37.1.194.138,443,DE,IROKO Networks Corporation
+77.83.86.169,2053,DE,Snowd Security OU
+134.122.77.148,443,DE,DigitalOcean, LLC
+64.238.203.71,8443,DE,Customer allocation HB Client 2916
+212.52.1.143,443,DE,WorkTitans B.V.
+185.254.67.11,443,DE,New Hosting Technologies LLC
+5.187.7.220,443,DE,www.fornex.com, Fornex Hosting S.L.
 109.206.241.22,2053,EE,Baykov Ilya Sergeevich
-5.101.179.212,2053,EE,Network for hosting services
-38.180.216.120,443,EE,3NT SOLUTIONS LLP
-185.4.72.98,2053,EE,Network for hosting services
-46.36.221.147,2053,EE,Network for hosting services
+176.97.74.132,2053,EE,IROKO Networks Corporation
 185.4.72.98,8443,EE,Network for hosting services
-80.79.121.46,443,EE,Aktsiaselts WaveCom
 5.101.179.212,8443,EE,Network for hosting services
-38.180.216.128,8443,EE,3NT SOLUTIONS LLP
-46.36.223.141,443,EE,Network for hosting services
 46.22.210.175,2053,EE,SOLUS KVM VPS POOL
 176.97.74.51,2053,EE,IROKO Networks Corporation
-46.22.210.175,8500,EE,SOLUS KVM VPS POOL
+46.36.223.141,443,EE,Network for hosting services
+5.101.179.212,2053,EE,Network for hosting services
+38.180.216.120,443,EE,3NT SOLUTIONS LLP
+46.36.221.147,2053,EE,Network for hosting services
 176.97.74.41,8443,EE,IROKO Networks Corporation
-138.124.4.38,443,EE,Baykov Ilya Sergeevich
 5.101.180.125,8443,EE,Network for hosting services
-38.180.248.29,443,EE,3NT SOLUTIONS LLP
-37.252.5.75,443,EE,IROKO Networks Corporation
+46.22.210.175,8500,EE,SOLUS KVM VPS POOL
+138.124.4.38,443,EE,Baykov Ilya Sergeevich
+46.22.211.37,443,EE,Aktsiaselts WaveCom
+80.79.121.46,443,EE,Aktsiaselts WaveCom
 80.79.123.100,443,EE,Aktsiaselts WaveCom
-109.235.246.34,443,EE,Cloudflare London, LLC
-38.244.154.149,443,EE,3NT SOLUTIONS LLP
-94.156.236.192,8443,EE,Baykov Ilya Sergeevich
-176.97.74.41,2053,EE,IROKO Networks Corporation
-46.36.221.147,8443,EE,Network for hosting services
+5.101.180.145,443,EE,Network for hosting services
+185.255.178.131,443,EE,Baykov Ilya Sergeevich
+38.180.248.167,8443,EE,3NT SOLUTIONS LLP
+38.180.216.128,8443,EE,3NT SOLUTIONS LLP
+5.101.180.125,2053,EE,Network for hosting services
+37.252.5.75,443,EE,IROKO Networks Corporation
+159.253.23.238,443,EE,IPv6 network for hosting services
 159.253.21.237,4434,EE,Network for hosting services
 159.253.19.232,443,EE,Network for hosting services
-38.180.216.128,2053,EE,3NT SOLUTIONS LLP
-46.36.219.80,443,EE,Network for hosting services
-109.206.241.125,443,EE,Baykov Ilya Sergeevich
-46.22.211.37,443,EE,Aktsiaselts WaveCom
-46.36.218.151,443,EE,Network for hosting services
-5.101.180.125,2053,EE,Network for hosting services
-176.97.74.90,443,EE,IROKO Networks Corporation
-159.253.23.238,443,EE,IPv6 network for hosting services
 46.36.217.216,443,EE,Network for hosting services
-46.22.211.46,443,EE,Aktsiaselts WaveCom
-38.180.248.167,8443,EE,3NT SOLUTIONS LLP
-83.217.210.42,443,EE,Baykov Ilya Sergeevich
-185.255.178.131,443,EE,Baykov Ilya Sergeevich
-5.101.180.145,443,EE,Network for hosting services
+109.206.241.125,443,EE,Baykov Ilya Sergeevich
+109.235.246.34,443,EE,Cloudflare London, LLC
+185.4.72.98,2053,EE,Network for hosting services
+176.97.74.41,2053,EE,IROKO Networks Corporation
+38.180.216.128,2053,EE,3NT SOLUTIONS LLP
+176.97.74.90,443,EE,IROKO Networks Corporation
+46.36.218.151,443,EE,Network for hosting services
+38.180.248.29,443,EE,3NT SOLUTIONS LLP
 185.4.73.45,443,EE,IPv6 network for hosting services
-80.77.25.142,443,EE,servinga.com - Estonia
+38.244.154.149,443,EE,3NT SOLUTIONS LLP
+83.217.210.42,443,EE,Baykov Ilya Sergeevich
+46.36.219.80,443,EE,Network for hosting services
+46.36.221.147,8443,EE,Network for hosting services
+94.156.236.192,8443,EE,Baykov Ilya Sergeevich
 5.45.112.46,443,EE,IPv6 network for hosting services
-66.151.35.153,8443,FI,HOSTKEY B.V.
-46.8.238.83,2053,FI,CGI GLOBAL LIMITED
-95.217.195.186,8443,FI,Hetzner Online GmbH
+80.77.25.142,443,EE,servinga.com - Estonia
+46.22.211.46,443,EE,Aktsiaselts WaveCom
+193.84.2.58,8443,FI,HOSTKEY B.V.
+5.144.179.124,2053,FI,HostVDS.com Cloud Provider
 93.152.207.116,443,FI,GLOBAL CONNECTIVITY SOLUTIONS LLP
-139.28.221.179,443,FI,PSERVERS Enterprise Network
-195.26.230.120,587,FI,XL
-93.152.207.4,443,FI,GLOBAL CONNECTIVITY SOLUTIONS LLP
-31.56.197.86,443,FI,CGI GLOBAL LIMITED
-188.165.137.201,8443,FR,OVH SAS
-178.32.43.41,8443,FR,OVH SAS
-57.129.137.225,443,GB,OVH Ltd
-57.129.137.85,8443,GB,OVH Ltd
-83.147.254.8,443,GB,Aeza International LTD
-213.159.77.220,443,HR,WorkTitans B.V.
-195.246.230.125,443,IS,1984 ehf
-176.126.83.146,8443,IT,Oneprovider.com - Florence Infrastructure
-188.213.168.52,443,IT,Aruba S.p.A. - Cloud Services Farm2
-80.211.238.61,443,IT,Aruba S.p.A. - Cloud Services Farm2
-94.177.199.45,443,IT,Aruba S.p.A. - Cloud Services Farm2
-213.148.1.150,8443,KZ,Modern Server Solutions LLP
-147.45.217.231,443,LT,GLOBAL CONNECTIVITY SOLUTIONS LLP
-37.128.204.4,2053,LV,SIA VEESP
-5.34.208.204,443,LV,SIA VEESP
+212.237.219.51,443,FI,HOSTKEY B.V.
+212.237.219.183,443,FI,HOSTKEY B.V.
+37.27.20.35,2053,FI,Hetzner Online GmbH
+45.12.151.185,443,FI,WorkTitans B.V.
+212.237.219.24,443,FI,HOSTKEY B.V.
+178.33.161.186,2053,FR,OVH SAS
+152.228.135.197,2053,FR,OVH SAS
+51.91.101.216,8443,FR,OVH SAS
+94.23.144.99,2053,FR,OVH SAS
+54.36.98.30,2053,FR,OVH SAS
+62.60.217.147,443,GB,Aeza International LTD
+57.129.137.64,443,GB,OVH Ltd
+2.56.179.239,443,GB,WorkTitans B.V.
+31.97.58.104,443,GB,Hostinger International Limited
+185.143.179.94,443,GE,LLC Ordunet
+8.210.96.197,12902,HK,Aliyun Computing Co.LTD
+194.26.213.108,443,IE,MVPS LTD
+138.2.59.96,10129,JP,Oracle Corporation
+47.74.8.30,2443,JP,Alibaba Cloud - JP
+195.210.47.233,8443,KZ,PS Internet Company LLP
+185.237.185.182,2053,LT,Oneprovider.com - Vilnius Infrastructure
+45.93.137.149,443,LT,Hostinger International Limited
+85.206.172.44,443,LT,SolusVM priskirti adresai
+195.135.252.244,443,LV,SIA VEESP
+37.128.207.179,443,LV,SIA VEESP
+91.197.3.157,443,LV,SIA VEESP
+94.158.218.48,443,LV,SIA VEESP
 109.185.236.240,443,MD,JSC Moldtelecom S.A.
+193.233.246.249,443,MD,S.C. INFOTECH-GRUP S.R.L.
+58.27.117.24,443,MY,TMNET
 38.60.193.247,13300,MY,Kaopu Cloud HK Limited
-31.15.17.129,2053,NL,CGI GLOBAL LIMITED
-185.185.40.9,8443,NL,HostUS
-185.31.200.5,8443,NL,Cloud Backbone Inc.
-188.253.24.229,8443,NL,SIA VEESP
-195.133.38.54,443,NL,Reliable Communications s.r.o.
-195.133.17.18,2053,NL,Individual Entrepreneur Anton Levin
-5.253.189.174,443,NL,NKtelecom INC
-2.56.90.32,8443,NL,IHC network in Amsterdam, NL Iron Hosting Centre Ltd., London, UK
-95.179.140.212,443,NL,JW Lucasweg 35
-212.34.140.216,8443,NL,Amsterdam, Netherlands
-212.118.40.20,2053,NL,Amsterdam, Netherlands
-193.37.68.197,443,NL,Individual Entrepreneur Anton Levin
-176.124.201.78,8443,NL,Timeweb, LLP
-46.17.102.249,8443,NL,HOSTKEY B.V.
-195.226.194.191,443,NL,Snowd Security OU
-45.131.187.210,443,NL,Individual Entrepreneur Anton Levin
-143.20.236.80,8443,NL,Internet Utilities Europe and Asia Limited
+77.238.237.176,443,NL,SERVERS TECH FZCO
+185.36.143.64,443,NL,Brainoza OU
+89.110.110.167,8443,NL,Amsterdam, Netherlands
+89.110.70.175,2053,NL,Amsterdam, Netherlands
+89.110.127.51,2053,NL,Amsterdam, Netherlands
+193.56.3.47,8443,NL,Individual Entrepreneur Anton Levin
+91.84.101.56,443,NL,SERVERS TECH FZCO
+212.111.82.34,2053,NL,Amsterdam, Netherlands
+212.34.146.27,443,NL,Amsterdam, Netherlands
+89.110.113.50,443,NL,Amsterdam, Netherlands
+109.120.154.167,443,NL,Iron Hosting Centre LTD
+176.222.55.163,443,NL,HOSTKEY B.V.
+80.89.229.119,2053,NL,Podaon SIA
+45.130.22.18,443,NL,Owl Limited
+192.210.175.108,443,NL,HostPapa
+93.183.126.165,8443,NL,Amsterdam, Netherlands
+109.69.57.181,443,NL,FIRST SERVER LIMITED
+46.17.100.135,443,NL,HOSTKEY B.V.
+91.84.103.35,8443,NL,SERVERS TECH FZCO
 185.157.212.155,443,NL,Cloudflare London, LLC
-45.158.81.45,443,NL,Brainoza OU
-45.95.42.17,443,NL,Host Sailor Ltd
-168.138.171.70,23280,SG,Oracle Public Cloud
+45.144.48.42,8443,PL,Newserverlife LLC
+45.144.48.33,8443,PL,Newserverlife LLC
+95.129.139.67,8443,RU,The college of films and photochemical production
+194.87.252.218,8443,RU,Baykov Ilya Sergeevich
+95.163.240.203,8443,RU,Reg.Ru Hosting
+193.148.59.145,8443,SE,Baykov Ilya Sergeevich
+143.42.66.91,443,SG,Viewqwest Pte Ltd
+138.2.78.38,1443,SG,Oracle Corporation
+89.46.42.174,443,SK,VPS1 in Slovakia
 209.15.110.126,443,TH,CAT TELECOM, CAT Cloud Dept, 99 Chaengwatthana Rd. Lak Si, Bangkok 10210
-91.149.239.70,443,US,BG-NETWORK
+188.132.184.84,8443,TR,ULTAHOST HOSTING VE VERI MERKEZI LTD. STI.
+93.115.10.237,2053,TR,2E TELEKOMUNIKASYON LTD STI
+205.185.116.48,17008,US,FranTech Solutions
 209.124.84.15,443,US,A2 Hosting, Inc.
-209.141.33.79,2053,US,BuyVM Services
-172.245.156.126,8443,US,RackNerd LLC
-64.44.86.208,12312,US,Nexeon Technologies, Inc.
-172.96.188.117,443,US,Hawk Host Inc.
-172.245.156.126,2053,US,RackNerd LLC
-142.171.220.62,16402,US,MULTACOM CORPORATION
-169.244.242.249,8443,US,Foxcroft Academy
+204.110.223.105,80,US,Securly, Inc
+142.171.140.152,443,US,MULTACOM CORPORATION
+192.3.155.217,443,US,RackNerd LLC
+64.181.218.67,443,US,Oracle Corporation
+23.95.189.91,443,US,RackNerd LLC
+142.171.220.62,16016,US,MULTACOM CORPORATION
 169.244.242.250,8443,US,Foxcroft Academy
-5.161.22.2,449,US,Hetzner Online GmbH
-66.135.6.8,443,US,The Constant Company, LLC
+74.48.83.62,443,US,MULTACOM CORPORATION
